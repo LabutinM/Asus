@@ -1,0 +1,5 @@
+print("w")
+print("o")
+print("r")
+print("l")
+print("d")
